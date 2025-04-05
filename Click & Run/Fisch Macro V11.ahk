@@ -40,12 +40,12 @@ HoldRodCastDuration := 480
 WaitForBobberDelay := 1000
 
 ; Set this to your navigation key, IMPORTANT
-NavigationKey := "\"
+NavigationKey := "'"
 
 ;     SHAKE SETTINGS     ====================================================================================================;
 
 ; Change to "Navigation" or "Click"
-ShakeMode := "Click"
+ShakeMode := "Navigation"
 
 ; Seconds for click shake to be considered failed
 ClickShakeFailsafe := 20
